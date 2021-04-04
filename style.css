@@ -1,0 +1,339 @@
+body{
+  background-color: #78c4d4;
+  color: rgb(165,145,135);
+  font-size: 60px;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-family:'Pinyon Script', cursive; 
+}
+h1{
+  line-height: 0.2;
+  font-size:150px;
+  color: #fa1e0e;
+  text-align: center;
+  font-family: 'Six Caps', sans-serif;
+}
+h2{
+  font-family: 'Pinyon Script', cursive;
+  font-weight: 100;
+  letter-spacing: 35px;
+  line-height: 0.5;
+  font-size: 50px;
+  text-align: center;
+  color:rgb(165,145,135);
+  margin-top: auto;
+  margin-bottom: 45px;
+}
+h3{
+  font-size: 100px;
+  color: #fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: auto;
+  margin-bottom: 35px;
+}
+h4{
+  font-size: 110px;
+  color:#fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: 50px;
+  margin-bottom: auto;
+  letter-spacing: 19px;
+}
+h5{
+  font-size: 110px; 
+  color:#fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: 45px;
+  margin-bottom: auto;
+  letter-spacing: 19px;
+}
+h6{ 
+  font-size: 110px; 
+  color:#fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top:45px;
+  margin-bottom: auto;
+  letter-spacing: 19px;
+}
+
+h7{ 
+  font-size: 110px; 
+  color:#fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top:45px;
+  margin-bottom: auto;
+  font-weight: bold;
+  letter-spacing: 19px;
+}
+
+h8{
+  font-size: 110px; 
+  color:#fa1e0e;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-weight: bold;
+  letter-spacing: 19px;
+}
+
+a{
+  color:rgb(128,116,108);
+  text-decoration: none;
+}
+a:hover{
+  color:rgb(242,231,223);
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+  padding-left: 0;
+}
+.profilephoto{
+  margin-left: auto;
+  margin-right: auto;
+  width:1200px;
+  border-radius:0.05%;
+}
+
+.banner{
+  font-size: 160px;
+}
+
+.intro{
+  font-size: 50px;
+  font-family: 'Pinyon Script', cursive;
+  color: rgb(165,145,135);
+  margin-top: 35px;
+  margin-bottom: 35px;
+  font-weight: bold;
+  margin-left: 300px;
+  margin-right: 300px;
+}
+.snap{
+  width: 800px;
+  border-radius: 1%
+}
+.snapofT{
+  font-size: 42px;
+  color:#070d59;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: 45px;
+}
+.Parfums{
+  font-size: 65px;
+  color:#ffee93;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.chanel{
+  font-size: 50px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-left:20px;
+  margin-right:20px;
+}
+.chanelperfume{
+  margin-left: auto;
+  margin-right: auto;
+  width:300px;
+}
+.yves{
+  font-size: 50px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-left:66px;
+  margin-right:20px;
+}
+.Yperfume{
+  margin-left: auto;
+  margin-right: auto;
+  width: 320px;
+}
+.help{
+  font-size: 42px;
+  color:#070d59;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.languages{
+  font-size: 60px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.music{
+  font-size: 60px;
+  color:rgb(165,145,135);
+  font-family: 'Six Caps', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+.doyouspeakbaguette{
+  margin-left: auto;
+  margin-right: auto;
+  width:800px;
+  margin-bottom:none; 
+  margin-top:none;
+}
+.spotify{
+  font-size: 60px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-bottom: 2px;
+}
+.playlists{
+  font-size: 42px;
+  color:#070d59;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.writing{
+  font-size: 42px;
+  color:#070d59;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.writing2{
+  font-size: 60px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: 60px;
+  margin-bottom: auto;
+}
+.writing3{
+  font-size: 60px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: auto;
+  margin-bottom: 60px;
+}
+.social{
+  display: inline-block;
+  margin: 50px;
+  color:#ffee93;
+  font-size: 75px;
+}
+.socials{
+  font-size: 42px;
+  color:#070d59;
+  font-family: 'Pinyon Script', cursive;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+.fasfa-quote-left{
+  width: 100px;
+  color:#070d59;
+}
+.helpyhelp{
+  margin: 2px;
+  margin-left: 470px;
+  margin-right: 470px;
+  background:#f48b29;
+  padding: 10px;
+  box-shadow: 0px 10px 10px #fa1e0e;
+  border-radius: 1%;
+}
+.Americanflag{
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  border-radius: 50%;
+}
+.Germanflag{
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  border-radius: 50%;
+}
+.Frenchflag{
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  border-radius: 50%;
+}
+.Swedishflag{
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  border-radius: 50%;
+}
+.Italianflag{
+  margin-left: auto;
+  margin-right: auto;
+  width:30px;
+  border-radius: 50%;
+}
+.lamusicadiharryfraud{
+  margin: 2px;
+  margin-left: 250px;
+  margin-right: 250px;
+  background:#ffee93;
+  padding: 10px;
+  box-shadow: 0px 10px 10px #fa1e0e;
+  border-radius: 1%;
+}
+.plume{
+  margin: 2px;
+  margin-left: 250px;
+  margin-right: 250px;
+  background:#5aa469;
+  padding: 10px;
+  box-shadow: 0px 10px 10px #fa1e0e;
+  border-radius: 1%;
+}
+.fragrances{
+  margin: 2px;
+  margin-left: 250px;
+  margin-right: 250px;
+  background:#2d6187;
+  padding: 10px;
+  box-shadow: 0px 10px 10px #fa1e0e;
+  border-radius: 1%;
+}
+.socialtime{
+  margin: 2px;
+  margin-left: 250px;
+  margin-right: 250px;
+  background:#5d54a4;
+  padding: 10px;
+  box-shadow: 0px 10px 10px #fa1e0e;
+  border-radius: 1%;
+}
+.soireepic{
+  width: 800px;
+  margin-bottom:none;
+  margin-top:none;
+}
+.soireetime{
+  width:800px;
+  border-radius: 1%%
+}
+.linktosoiree{
+  font-size: 60px;
+  color:#070d59;
+  font-family: 'Six Caps', sans-serif;
+  margin-top: 60px;
+  margin-bottom: auto;
+  letter-spacing: 35px;
+}
+
+.fab{
+  color:#070d59;
+  hover: ;
+}
+.fab{
+  color:#070d59;
+  text-decoration: none;
+}
+.fab:hover{
+  color:rgb(242,231,223);
+  text-decoration: none;
+}
+
